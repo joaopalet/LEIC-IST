@@ -8,7 +8,7 @@ Projects made on my Bachelor of Computer Science and Engineering at Instituto Su
 * [IAED - Introdução aos Algoritmos e Estruturas de Dados / Introduction to Algorithms and Data Structures (C)](1st_Year/IAED)
 
 ### 2nd Year
-* [PO - Programação com Objetos / Object Oriented Programming (Java)] (2nd_Year/PO)
+* [PO - Programação com Objetos / Object Oriented Programming (Java)](2nd_Year/PO)
 * [SO - Sistemas Operativos / Operating Systems (C)](2nd_Year/SO)
 * [ASA - Análise e Sintese de Algoritmos / Analysis and Synthesis of Algorithms (C)](2nd_Year/ASA)
 * [IPM - Interfaces Pessoa Máquina / Human-Computer Interaction (HTML/CSS/JS/JQuery)](2nd_Year/IPM)

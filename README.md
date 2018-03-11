@@ -1,5 +1,4 @@
 # LEIC-IST
-Projects made on my Bachelor of Computer Science and Engineering at Instituto Superior Técnico
 
 ### 1st Year
 * [FP - Fundamentos da Programação / Foundations of Programming (Python)](1st_Year/FP)

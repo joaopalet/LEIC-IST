@@ -1,4 +1,4 @@
-#IA - Grade 20
+# IA - Grade 20
 
 ### Projeto 1
 * Solitaire Game (search algorithms)

@@ -11,3 +11,7 @@
 * [SO - Sistemas Operativos / Operating Systems (C)](2nd_Year/SO)
 * [ASA - Análise e Sintese de Algoritmos / Analysis and Synthesis of Algorithms (C)](2nd_Year/ASA)
 * [IPM - Interfaces Pessoa Máquina / Human-Computer Interaction (HTML/CSS/JS/JQuery)](2nd_Year/IPM)
+
+### 3rd Year
+* [IA - Inteligência Artificial / Artificial Intelligence (Python)](3rd_Year/IA)
+* [BD - Bases de Dados / Database Systems](3rd_Year/BD)
